@@ -1,1 +1,2 @@
 Python is programming Language.
+Machine Learning is predictive Analytics.
